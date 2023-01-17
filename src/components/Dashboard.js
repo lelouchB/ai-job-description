@@ -33,9 +33,9 @@ export default function Dashboard() {
         numWords,
       }),
     });
+    setIsGenerating(false);
     const data = await res.json();
     setJobDescription(data.jobDescription.trim());
-    setIsGenerating(false);
   };
 
   return (
