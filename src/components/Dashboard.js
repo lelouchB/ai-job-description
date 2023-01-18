@@ -147,6 +147,7 @@ export default function Dashboard() {
               }
               name="output"
               value={jobDescription}
+              onChange={(e) => setJobDescription(e.target.value)}
               disabled={jobDescription === ""}
               id="output"
               placeholder="AI Generated Job Description"
