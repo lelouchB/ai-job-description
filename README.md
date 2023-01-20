@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+[![m1ieud6fgxhqsgnec96n](https://user-images.githubusercontent.com/45850882/213618308-1fc9ee4c-f201-45eb-9439-e2973bf0a501.gif)](https://www.freecodecamp.org/news/build-a-job-description-generator-with-nextjs-and-chatgpt/)
+
+https://www.freecodecamp.org/news/build-a-job-description-generator-with-nextjs-and-chatgpt/](https://www.freecodecamp.org/news/build-a-job-description-generator-with-nextjs-and-chatgpt/]
+
 
 ## Getting Started
 
