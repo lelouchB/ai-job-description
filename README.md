@@ -2,7 +2,6 @@
 
 [https://www.freecodecamp.org/news/build-a-job-description-generator-with-nextjs-and-chatgpt/](https://www.freecodecamp.org/news/build-a-job-description-generator-with-nextjs-and-chatgpt/)
 
-
 ## Getting Started
 
 First, run the development server:
